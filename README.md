@@ -91,6 +91,6 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 
 <p align="left">
   <a href="https://github.com/jeydinpham">
-    <img src="https://komarev.com/ghpvc/?username=jeydinpham&style=for-the-badge&color=yellow" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=jeydin21&style=for-the-badge&color=yellow" alt="Profile Views">
   </a>
 </p>
