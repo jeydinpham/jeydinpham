@@ -1,5 +1,5 @@
 # 👋 Hey there!!
-I'm Jeydin, an aspiring software engineer and incoming Computer Science student at The University of Texas at Dallas. My main focus is web development, but I also enjoy working with Linux and exploring the world of DevOps.
+I'm Jeydin, an Software Engineering student at The University of Texas at Dallas. My main focus is web development, but I also enjoy working with Linux and exploring the world of DevOps.
 
 I love collaborating on meaningful projects, tackling challenges, and sharing ideas with other developers. If you're working on something cool or just want to connect, feel free to reach out!
 
