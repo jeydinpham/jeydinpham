@@ -49,9 +49,9 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 
 ## ⭐ Featured Repositories
 <p align="left">
-  <a href="https://github.com/Jeydin21/Munchyroll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeydin21&repo=Munchyroll&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Munchyroll"></a>
-  <a href="https://github.com/Jeydin21/Raincheck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeydin21&repo=Raincheck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Raincheck"></a>
-  <a href="https://github.com/Jeydin21/Calculator-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeydin21&repo=Calculator-App&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculator App"></a>
+  <a href="https://github.com/jeydinpham/Munchyroll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Munchyroll&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Munchyroll"></a>
+  <a href="https://github.com/jeydinpham/Raincheck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Raincheck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Raincheck"></a>
+  <a href="https://github.com/jeydinpham/Calculator-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Calculator-App&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Calculator App"></a>
 </p>
 
 ## 📊 Profile Stats
@@ -59,13 +59,13 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
     <tbody>
       <tr border="none">
         <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeydin21&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydinpham&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
           <br>
           <br>
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeydin21&amp;theme=dark&amp;hide_border=false">
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeydinpham&amp;theme=dark&amp;hide_border=false">
         </td>
         <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jeydin21&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+          <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeydinpham&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
         </td>
       </tr>
     </tbody>
@@ -76,21 +76,21 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 <!--- trophy (start) -->
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Jeydin21&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jeydinpham&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
   </a>
 </div>
 <!--- trophy (end) -->
 <!--- stats (end) -->
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeydin21/Jeydin21/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeydin21/Jeydin21/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeydin21/Jeydin21/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeydinpham/jeydinpham/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeydinpham/jeydinpham/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeydinpham/jeydinpham/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <p align="left">
-  <a href="https://github.com/Jeydin21">
-    <img src="https://komarev.com/ghpvc/?username=jeydin21&style=for-the-badge&color=yellow" alt="Profile Views">
+  <a href="https://github.com/jeydinpham">
+    <img src="https://komarev.com/ghpvc/?username=jeydinpham&style=for-the-badge&color=yellow" alt="Profile Views">
   </a>
 </p>
