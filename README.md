@@ -1,14 +1,18 @@
 # 👋 Hey there!!
-I'm Jeydin, an Software Engineering student at The University of Texas at Dallas. My main focus is web development, but I also enjoy working on backend systems that tie everything together behind the scenes to make things work seamlessly.
-
-I love collaborating on meaningful projects, tackling challenges, and sharing ideas with other developers. If you're working on something cool or just want to connect, feel free to reach out!
-
-[LinkedIn](https://linkedin.com/in/jeydinpham) | [Email](mailto:jeydinpham@gmail.com)
+I'm a Software Engineering student at UT Dallas who loves building things that are both well-engineered and genuinely useful. Whether it's a full-stack web app or an internal tool used by a whole team, I care about the craft behind what I ship.
+ 
+I'm currently a Software Engineer Intern at IBM, working on the Vault Engineering Productivity team. It's been a great opportunity to bring technical rigor and collaborative energy into a professional setting, and to work alongside people who take their craft seriously.
+ 
+At UT Dallas, I serve as a Software Engineer Officer at ACM UTD, the largest student organization on campus. I've helped lead a website redesign, collaborated with peers on real projects, and built tools that made a genuine difference for our members and officers. It's been my best hands-on lesson in technical leadership.
+ 
+I'm always looking for opportunities to grow, contribute to meaningful projects, and work with people who care about doing good work.
+ 
+Feel free to reach out at jeydinpham@gmail.com!
 
 ## 📌 Things I'm Working On
 - 🍣 **ACM UTD**: I'm building and maintaining both external and internal software as an ACM Development officer for [ACM UTD](https://acmutd.co/)
-- 🌐 **ACM Website**: Wrapping up a redesign of the ACM UTD website - [Check it out!](https://github.com/acmutd/website/)
-- 🏗 **ACM Officer Database**: Working on a backend for a centralized database for ACM officers - [Work in progress](https://github.com/acmutd/officer-database-backend/)
+- 🌐 **ACM UTD Website**: Wrapping up a redesign of the ACM UTD website - [Check it out!](https://github.com/acmutd/website/)
+- 🏗 **ACM UTD Officer Database**: Working on a backend for a centralized database for ACM officers - [Work in progress](https://github.com/acmutd/officer-database-backend/)
 - 💀 **University**: I manage a "work-life" balance between school and my personal life, which involves tedious calendar planning to utilize my time correctly
 
 ## 🛠️ Languages and Tools
@@ -41,10 +45,10 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 
 ## ⭐ Featured Repositories
 <p align="left">
-  <a href="https://github.com/jeydinpham/Munchyroll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Munchyroll&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Munchyroll"></a>
-  <a href="https://github.com/jeydinpham/Raincheck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Raincheck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Raincheck"></a>
-  <a href="https://github.com/acmutd/website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=acmutd&repo=website&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Website"></a>
-  <a href="https://github.com/acmutd/officer-database-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=acmutd&repo=officer-database-backend&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Officer DB Backend"></a>
+  <a href="https://github.com/jeydinpham/Munchyroll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Munchyroll&theme=catppuccin_mocha&hide_border=true&show_icons=false" alt="Munchyroll"></a>
+  <a href="https://github.com/jeydinpham/Raincheck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeydinpham&repo=Raincheck&theme=catppuccin_mocha&hide_border=true&show_icons=false" alt="Raincheck"></a>
+  <a href="https://github.com/acmutd/website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=acmutd&repo=website&theme=catppuccin_mocha&hide_border=true&show_icons=false" alt="Website"></a>
+  <a href="https://github.com/acmutd/officer-database-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=acmutd&repo=officer-database-backend&theme=catppuccin_mocha&hide_border=true&show_icons=false" alt="Officer DB Backend"></a>
 </p>
 
 ## 📊 Profile Stats
@@ -52,13 +56,13 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
     <tbody>
       <tr border="none">
         <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydinpham&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+          <img align="center" src="https://github-readme-stats.shion.dev/api?username=jeydinpham&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true">
           <br>
           <br>
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeydinpham&amp;theme=dark&amp;hide_border=false">
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=jeydinpham&theme=catppuccin_mocha&hide_border=true">
         </td>
         <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeydinpham&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+          <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeydinpham&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true">
         </td>
       </tr>
     </tbody>
@@ -68,8 +72,8 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 
 <!--- trophy (start) -->
 <div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=jeydinpham&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+  <a href="https://github.com/lucthienphong1120/github-trophies" title="Go to Source">
+    <img align="center" width="84%" src="https://github-trophies.vercel.app/?username=jeydinpham&theme=onedark" alt="TROPHY">
   </a>
 </div>
 <!--- trophy (end) -->
