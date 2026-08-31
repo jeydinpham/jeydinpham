@@ -1,7 +1,7 @@
 # 👋 Hey there!!
 I'm a Software Engineering student at UT Dallas who loves building things that are both well-engineered and genuinely useful. Whether it's a full-stack web app or an internal tool used by a whole team, I care about the craft behind what I ship.
  
-I'm currently a Software Engineer Intern at IBM, working on the Vault Engineering Productivity team. It's been a great opportunity to bring technical rigor and collaborative energy into a professional setting, and to work alongside people who take their craft seriously.
+This past summer, I was a Software Engineer Intern at IBM, working on the Vault Engineering Productivity team. It's been a great opportunity to bring technical rigor and collaborative energy into a professional setting, and to work alongside people who take their craft seriously.
  
 At UT Dallas, I serve as a Software Engineer Officer at ACM UTD, the largest student organization on campus. I've helped lead a website redesign, collaborated with peers on real projects, and built tools that made a genuine difference for our members and officers. It's been my best hands-on lesson in technical leadership.
  
@@ -10,8 +10,8 @@ I'm always looking for opportunities to grow, contribute to meaningful projects,
 Feel free to reach out at jeydinpham@gmail.com!
 
 ## 📌 Things I'm Working On
+- 📹 **Shrink Engine**: Just finished a video compression web app meant to get Discord's file upload limit - [Check it out!](https://shrink.jeydinpham.com)
 - 🍣 **ACM UTD**: I'm building and maintaining both external and internal software as an ACM Development officer for [ACM UTD](https://acmutd.co/)
-- 🌐 **ACM UTD Website**: Wrapping up a redesign of the ACM UTD website - [Check it out!](https://github.com/acmutd/website/)
 - 🏗 **ACM UTD Officer Database**: Working on a backend for a centralized database for ACM officers - [Work in progress](https://github.com/acmutd/officer-database-backend/)
 - 💀 **University**: I manage a "work-life" balance between school and my personal life, which involves tedious calendar planning to utilize my time correctly
 
